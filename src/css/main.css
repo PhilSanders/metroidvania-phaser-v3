@@ -1,0 +1,10 @@
+body {
+	margin: 0;
+	text-align: center;
+	background: #111;
+}
+.metroidvania {
+	max-width: 800px;
+	height: 600px;
+	margin: 0 auto;
+}

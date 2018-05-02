@@ -1,0 +1,20 @@
+{
+  "name": "metroidvania-phaser-v3",
+  "version": "1.0.0",
+  "description": "An experimental game made with Phaser.io and borrowing elements from classic games like Metroid and Castlevania. Obviously, this a spoof on the video game genre of the same name. Have fun and don't take yourself too seriously.",
+  "main": "gulpFile.js",
+  "dependencies": {
+    "phaser": "^3.6.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-useref": "^3.1.5",
+    "gulp-webserver": "^0.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
